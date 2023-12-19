@@ -11,7 +11,7 @@ A missão do FreeCodeCamp é ajudar as pessoas a aprender a programar de graça.
 🔖 Projeto
 
 Aprenda maneiras diferentes de definir valores de cores e como combinar cores uma com a outra criando um conjunto de marcadores coloridos. 
-- [Viste o projeto online](https://gabrielaspenha.github.io/Marcadores-Coloridos/)
+- [Viste o projeto online](https://gabrielaspenha.github.io/Colored-Markers/)
 
 🚀 Tecnologias
 
